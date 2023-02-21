@@ -1,0 +1,8 @@
+{
+  "name": "study-socket.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/langer007520/study-socket.io.git",
+  "author": "jelyn <langer007@yeah.net>",
+  "license": "MIT"
+}
